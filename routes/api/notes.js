@@ -1,7 +1,7 @@
 // Importing the necessary modules and data
 const router = require("express").Router();
-const { notes } = require('../../db/db');
-const { createNewNote, deleteNote } = require('../../helpers');
+const { notes } = require('../../db/db.json');
+const { createNewNote, deleteNote } = require('../../helpers/index');
 
 // Route to handle the GET request for retrieving all notes
 router.get('/notes', (req, res) => {
