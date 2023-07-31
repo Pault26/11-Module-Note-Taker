@@ -63,7 +63,7 @@
 
 [![Note Taker][product-screenshot]](https://example.com)
 
-This app allows the user to create and save a note which they can then save and delete as need be. This project uses several 
+This app allows the user to create and save a note which they can then save and delete as need be. This project uses several features such as HTML, JavaScript, Node.js, and Express while being deployed through heroku. The purpose of this project is to help the user keep a simple track of their work and any important ideas while also being able to  
 
 Use the `BLANK_README.md` to get started.
 
