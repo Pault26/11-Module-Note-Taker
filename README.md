@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Note Taker][product-screenshot]](https://example.com)
+[![Note Taker][product-screenshot]](https://github.com/Pault26/11-Module-Note-Taker)
 
 This app allows the user to create and save a note which they can then save and delete as need be. This project uses several features such as HTML, JavaScript, Node.js, and Express while being deployed through heroku. The purpose of this project is to help the user keep a simple track of their work and any important ideas while also being able to delete any completed work.
 
@@ -84,12 +84,12 @@ This project was built with Html, CSS, and JavaScript as well as Node.js, expres
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+If you're interested in installing this project for your own use simply follow the instructions below!
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Make sure you have Node.js and that it is up to date
+
 * npm
   ```sh
   npm install npm@latest -g
@@ -97,20 +97,15 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is how you can install and set up your app._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -120,9 +115,9 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The purpose of this app is to give the user a quick and easy way to keep track of notes and tasks. For the class, this project was a test of our ability to build an app with node and express and having it run through Heroku. This app could easily be repurposed for a multitude of uses such as a day planner, a class note app, or any other system that requires you save and store personal data.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/Pault26/11-Module-Note-Taker)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,15 +126,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Add Ability to Add and Delete
+- [x] Add Ability to save data
+- [ ] Allow customization (light and dark mode)
+- [ ] Improve functionality
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Pault26/11-Module-Note-Taker/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,9 +167,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Paul Tuemler - [@paul_tuemler](https://twitter.com/paul-tuemler) - paultuemler@yahoo.com.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Pault26/11-Module-Note-Taker](https://github.com/Pault26/11-Module-Note-Taker)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,7 +178,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Special Thanks to the following for making this project possible!
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
@@ -203,10 +195,10 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/Pault26/11-Module-Note-Taker/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://www.linkedin.com/in/paul-tuemler/
+[product-screenshot]: assets\11-express-homework-demo-01.png
 [HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [JavaScript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
